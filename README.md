@@ -17,6 +17,9 @@ Install g++ on your device and add its path to the environment variable. Install
 ```
 sudo apt-get install libfltk1.3
 ```
+```
+sudo apt install libfltk1.3-dev
+```
 Clone the repository and open terminal in the workind directory. Run the simulation using
 ```
 fltk-config --compile Solid.cpp
