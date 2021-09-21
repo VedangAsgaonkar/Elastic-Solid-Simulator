@@ -4,6 +4,13 @@ internal damping between them. Internal as well as external collision has been i
 The implementation is in FLTK, and given the limitations of the library, the simulation can run only at 10 frames/second. Future versions may use OpenGL and more
 complex behaviour can be implemented.
 
+## Images
+Some images from the simulator, showing collision and harmonic oscillation
+
+| Collision against rigid body | Harmonic oscillations |
+| --- | --- |
+| <img src="images/collision.png" width=350 height=350> | <img src="images/oscillation.png" width=350 height=350> |
+
 ## Installation
 ### For Linux 
 Install g++ on your device and add its path to the environment variable. Install fltk:
