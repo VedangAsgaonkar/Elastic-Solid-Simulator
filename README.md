@@ -12,8 +12,8 @@ sudo apt-get install libfltk1.3
 ```
 Clone the repository and open terminal in the workind directory. Run the simulation using
 ```
-fltk-config --compile solid.cpp
+fltk-config --compile Solid.cpp
 ```
 ```
-./solid
+./Solid
 ```
